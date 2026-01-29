@@ -99,8 +99,8 @@ python app.py
 
 
 Open in browser:
+lovable-sensor-guardian.vercel.app
 
-http://localhost:5000
 
 📊 Machine Learning Workflow
 
