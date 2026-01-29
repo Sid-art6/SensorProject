@@ -6,8 +6,11 @@ MONGO_COLLECTION_NAME = 'waferfault'
 
 
 TARGET_COLUMN = 'quality'
-MOngo_DB_URL = ''
+MONGO_DB_URL = uri = 'mongodb+srv://sid:12345@cluster0.sjbcjrv.mongodb.net/?'
+
 
 
 MODEL_FILE_NAME = 'model'
 MODEL_FILE_EXTENSION = '.pkl'
+
+artifact_folder = 'artifacts'
