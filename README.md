@@ -14,7 +14,7 @@
 ---
 
 ## 🌟 Why SensorProject?
-
+lovable-sensor-guardian.vercel.app
 **SensorProject** is a production-ready **Machine Learning project** designed to handle real-world sensor data — from ingestion to prediction and visualization.
 
 It demonstrates **industry-level project structure**, clean coding practices, and scalable ML workflows — perfect for **Data Scientist / ML Engineer portfolios**.
